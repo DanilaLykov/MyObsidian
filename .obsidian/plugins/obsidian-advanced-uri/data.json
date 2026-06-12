@@ -8,7 +8,7 @@
   "addFilepathWhenUsingUID": false,
   "allowEval": false,
   "includeVaultName": true,
-  "vaultParam": "id",
+  "vaultParam": "name",
   "linkFormats": [
     {
       "name": "Markdown",

@@ -42,10 +42,14 @@
             "id": "7dd7a475538dcaee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимизация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ВОРОНКА - Оптимизация"
             }
           },
           {
@@ -354,8 +358,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35530b2c5813c967",
+  "active": "7dd7a475538dcaee",
   "lastOpenFiles": [
+    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Контекст.md",
+    "АВИТО/Пример КП Авито разаботка+ведение.md",
     "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимизация.md",
     "1 800 000/index.lock",
     "1 800 000/refs/tags",
@@ -367,7 +373,6 @@
     "1 800 000/hooks/sendemail-validate.sample",
     "1 800 000/hooks/push-to-checkout.sample",
     "1 800 000/hooks/prepare-commit-msg.sample",
-    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Контекст.md",
     "ОРГСТРУКТУРА/Работа с закрывающими документами.md",
     "ФОТО ЗАПЧАСТЕЙ/Untitled.md",
     "Регистрация ПО и ТЗ/Регистрация в минцифры.md",
