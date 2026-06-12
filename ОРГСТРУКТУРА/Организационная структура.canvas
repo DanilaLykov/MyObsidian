@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"ae63f3ccbf741015","type":"text","text":"","x":-580,"y":-560,"width":250,"height":700},
+		{"id":"f473c4f4ed00c44b","type":"text","text":"","x":-300,"y":-560,"width":250,"height":700},
+		{"id":"e0d0f566773b9587","type":"text","text":"CEO Директор","x":-100,"y":-780,"width":250,"height":60},
+		{"id":"c1b819074e50e415","x":-580,"y":-640,"width":250,"height":60,"type":"text","text":"Аккаунтинг и продажи"},
+		{"id":"5d78b1437b8a184d","type":"text","text":"Разработка","x":-300,"y":-640,"width":250,"height":60},
+		{"id":"765d120437dc0fb8","type":"text","text":"SEO и реклама","x":-20,"y":-640,"width":250,"height":60},
+		{"id":"4aa32cb457b4c419","type":"text","text":"SEO и реклама","x":260,"y":-640,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"37f8fb1abb0f37f0","fromNode":"c1b819074e50e415","fromSide":"bottom","toNode":"ae63f3ccbf741015","toSide":"top"}
+	]
+}

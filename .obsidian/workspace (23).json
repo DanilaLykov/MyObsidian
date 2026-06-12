@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d570ec2f27ed83bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24042eab55509bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATA Parts/Восстановление данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Восстановление данных"
+            }
+          },
+          {
+            "id": "fb88df836ccfcea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "c8258233a3dc880e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Контекст/Чистка мусорных площадок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чистка мусорных площадок"
+            }
+          },
+          {
+            "id": "7dc24dc8bf57c8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Битрикс24 Промбуравто/Битрикс24 Промбруавто.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Битрикс24 Промбруавто"
+            }
+          },
+          {
+            "id": "ba5cfde4aa0bd267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Контекст/Перечень работ по тарифам.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перечень работ по тарифам"
+            }
+          },
+          {
+            "id": "c4e47218af4fa60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЧАТ/Чат доски объявлений - общее описание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чат доски объявлений - общее описание"
+            }
+          },
+          {
+            "id": "50adfdae48ea68b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Рекламные блоки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рекламные блоки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "404ce12686bc1185",
+        "type": "tabs",
+        "dimension": 14.727540500736376,
+        "children": [
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "зп",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      },
+      {
+        "id": "abc0cc6d344c27e2",
+        "type": "tabs",
+        "dimension": 55.596465390279825,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5371d9526762a074",
+        "type": "tabs",
+        "dimension": 29.6759941089838,
+        "children": [
+          {
+            "id": "d3d9146eb1d62480",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 401.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DATA Parts/Восстановление данных.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Восстановление данных"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "572a5f0e93d27796",
+  "lastOpenFiles": [
+    "Неразобрано/Сущности и виды отображения.md",
+    "Неразобрано/Где, что, кому.md",
+    "Неразобрано/Untitled.md",
+    "Неразобрано/Бонусы по зарплатам.md",
+    "Неразобрано/Запросы, по которым показываются Рубитех.md",
+    "Untitled",
+    "Битрикс24 Русский Урал/Телефония.md",
+    "Неразобрано/Контекст.md",
+    "W-PUNCH/Категории задач.md",
+    "DATA Parts/Восстановление данных.md",
+    "Неразобрано/Сучков Тимофей.md",
+    "Контекст/Общий контроль рекламных кампаний.md",
+    "Неразобрано/Н7 - реклама партнерства.md",
+    "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+    "ГРУЗОВИК.БИЗ/Рекламные блоки.md",
+    "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+    "Контекст/Чистка мусорных площадок.md",
+    "Неразобрано/А-ГРУПП - редизайн сайта.md",
+    "Битрикс24/Битрикс24 - Перечень работ по интеграции.md",
+    "ЧАТ/Описание WebSocket API чата.md",
+    "Неразобрано/GIT для контрибных продуктов.md",
+    "Неразобрано/Проблемы Фида яндекса.md",
+    "Контекст/Перечень работ по тарифам.md",
+    "Контекст/Pasted image 20250313103115.png",
+    "Неразобрано/Иконки для Таганая.md",
+    "Битрикс24 Промбуравто/Битрикс24 Промбруавто.md",
+    "Неразобрано/АСТРОНА Регистрация.md",
+    "Неразобрано/Без названия.md",
+    "W-PUNCH/Отчеты по сделкам.md",
+    "АРХИВ",
+    "Неразобрано/23d75f06-ef28-4fab-a7b8-4c7bd1986fbd.png",
+    "Неразобрано/06cbf0e9-682d-4235-8d0e-ae4b78e17d03.png",
+    "Битрикс24 Русский Урал",
+    "Неразобрано/Pasted image 20250224171423.png",
+    "Битрикс24 Промбуравто",
+    "Неразобрано/bb9ad678-9b0e-4456-a975-e49d227f7908.jpeg",
+    "Контекст",
+    "Регистрация ПО и ТЗ",
+    "ОТДЕЛ ПРОДАЖ",
+    "Битрикс24/АРХИВ",
+    "ГРУЗОВИК.БИЗ/Без названия.canvas",
+    "Битрикс24",
+    "DATA Parts",
+    "Неразобрано/Pasted image 20250110100103.png",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные/Pasted image 20241228133901.png",
+    "Без названия.canvas"
+  ]
+}

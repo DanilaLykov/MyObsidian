@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d570ec2f27ed83bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d34987a29a3a1867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Битрикс24 Русский Урал/Закупка автомобилей.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Закупка автомобилей"
+            }
+          },
+          {
+            "id": "5eed3319d849a4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATA Parts/Восстановление данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Восстановление данных"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc0cc6d344c27e2",
+        "type": "tabs",
+        "dimension": 59.49855351976856,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "2b06bce9176578b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b749a391dd153202",
+        "type": "tabs",
+        "dimension": 40.50144648023144,
+        "children": [
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "план раб",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DATA Parts/Восстановление данных.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Восстановление данных"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5eed3319d849a4e8",
+  "lastOpenFiles": [
+    "Битрикс24 Русский Урал/Закупка автомобилей.md",
+    "DATA Parts/Восстановление данных.md",
+    "Битрикс24 Русский Урал/Телефония.md",
+    "Неразобрано/План работ Partizon.md",
+    "Неразобрано/Смета на мебель.md",
+    "Неразобрано/Стройка участок.md",
+    "PARTIZON/Аудит 2025-07-01 ПАРТИЗОН.md",
+    "Untitled 1",
+    "Неразобрано/Телефония ALGUS.md",
+    "Неразобрано/ХАМС.md",
+    "Неразобрано/Аудит 2025-06-24 ПАРТИЗОН.md",
+    "СТУДЕНТЫ/Практика 2025.md",
+    "СТУДЕНТЫ",
+    "ФОТО ЗАПЧАСТЕЙ/Untitled.md",
+    "ФОТО ЗАПЧАСТЕЙ",
+    "Битрикс24 Русский Урал/Справочник менеджера отдела продаж по работе с CRM Битрикс 24 компании Русский Урал.md",
+    "ГРУЗОВИК.БИЗ/Уведомления.md",
+    "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
+    "Неразобрано/А-ГРУПП - редизайн сайта.md",
+    "Неразобрано/Wazzap.md",
+    "Неразобрано/Как писать преимущества.md",
+    "Неразобрано/Untitled 1.md",
+    "Неразобрано/Импорт переменных.md",
+    "W-PUNCH/Категории задач.md",
+    "Неразобрано/Бонусы по зарплатам.md",
+    "Неразобрано/Брэйк-поинты, диапазоны и макеты.md",
+    "Контекст/Перечень работ по тарифам.md",
+    "Контекст/Инструмент для медиапланов.md",
+    "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+    "PARTIZON",
+    "Untitled",
+    "DATA-PARTS",
+    "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+    "Контекст/Pasted image 20250313103115.png",
+    "АРХИВ",
+    "Неразобрано/23d75f06-ef28-4fab-a7b8-4c7bd1986fbd.png",
+    "Неразобрано/06cbf0e9-682d-4235-8d0e-ae4b78e17d03.png",
+    "Битрикс24 Русский Урал",
+    "Неразобрано/Pasted image 20250224171423.png",
+    "Битрикс24 Промбуравто",
+    "Неразобрано/bb9ad678-9b0e-4456-a975-e49d227f7908.jpeg",
+    "Контекст",
+    "ГРУЗОВИК.БИЗ/Без названия.canvas",
+    "Неразобрано/Pasted image 20250110100103.png",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные/Pasted image 20241228133901.png",
+    "Без названия.canvas"
+  ]
+}

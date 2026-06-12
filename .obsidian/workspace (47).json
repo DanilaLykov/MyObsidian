@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10145afa37445cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af7c5da90bf12ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/Забор на дачу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Забор на дачу"
+            }
+          },
+          {
+            "id": "fd38749c94a17f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Функция с метриками и группировками.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Функция с метриками и группировками"
+            }
+          },
+          {
+            "id": "3597b5f75a6f3b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Продажа/Тарифы 2025-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тарифы 2025-2026"
+            }
+          },
+          {
+            "id": "cf44eb5cfd9263bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Шаблоны кратких характеристик.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шаблоны кратких характеристик"
+            }
+          },
+          {
+            "id": "3d63a4441474a4a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Продажа/Креатив про ЗАЕБИСЬ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Креатив про ЗАЕБИСЬ"
+            }
+          },
+          {
+            "id": "f0bd82716b40e457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Контекст/Перечень работ по тарифам.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Перечень работ по тарифам"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc0cc6d344c27e2",
+        "type": "tabs",
+        "dimension": 59.49855351976856,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a60ac2d51d866afe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b749a391dd153202",
+        "type": "tabs",
+        "dimension": 40.50144648023144,
+        "children": [
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Продажа/Креатив про ЗАЕБИСЬ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Креатив про ЗАЕБИСЬ"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3d63a4441474a4a0",
+  "lastOpenFiles": [
+    "Контекст/Расчет Danger Score (ИИ).md",
+    "ГРУЗОВИК.БИЗ/Чаты/Реальные состояния в мобильном приложении.md",
+    "ГРУЗОВИК.БИЗ/Чаты/Состояния - как можно сделать.md",
+    "Контекст/Структура БД (мусорные площадки).md",
+    "ГРУЗОВИК.БИЗ/Чаты/Модели сущностей (2).md",
+    "ГРУЗОВИК.БИЗ/Чаты/Все модели сущностей чата.md",
+    "Неразобрано/Релизы ALGUS Parts Trucks.md",
+    "Неразобрано/Проблемы поиска запчастей.md",
+    "Неразобрано/Терминология связанная с категориями (разделами).md",
+    "ГРУЗОВИК.БИЗ/Категории компаний торгующих техникой.md",
+    "Неразобрано/Модели сущностей.md",
+    "ГРУЗОВИК.БИЗ/Метки компаний.md",
+    "ГРУЗОВИК.БИЗ/Доработки/Шаги подачи объявления.md",
+    "ГРУЗОВИК.БИЗ/Доработки/Страница продавца.md",
+    "ГРУЗОВИК.БИЗ/Доработки/Доработка страницы модерации марок.md",
+    "Контекст/Выбор целей для настройки РК.md",
+    "DATA Parts/Парсинг характеристик запчастей.md",
+    "ГРУЗОВИК.БИЗ/Продажа/Креатив про ЗАЕБИСЬ.md",
+    "DATA Parts/Нужные визуальные каталоги.md",
+    "DATA Parts/Восстановление данных.md",
+    "ГРУЗОВИК.БИЗ/Доработки/Доработки по бэкэнду для нового дизайна карточек и страницы продавца.md",
+    "ГРУЗОВИК.БИЗ/Доработки/Без названия.canvas",
+    "ГРУЗОВИК.БИЗ/Доработки/Доработки страницы добавления объявления.md",
+    "ГРУЗОВИК.БИЗ/Продажа/Разработка коммерческих предложений.md",
+    "ГРУЗОВИК.БИЗ/Продажа/Обзвон продавцов спецтехники с целью сегментации.md",
+    "ГРУЗОВИК.БИЗ/Продажа/Тарифы 2025-2026.md",
+    "ГРУЗОВИК.БИЗ/Чаты/Страница чатов у менеджера поддержки.md",
+    "ГРУЗОВИК.БИЗ/Чаты",
+    "ГРУЗОВИК.БИЗ/УСЛИГИ Commerce",
+    "ГРУЗОВИК.БИЗ/УСЛУГИ И Транзакции.canvas",
+    "ГРУЗОВИК.БИЗ/Доработки",
+    "Контекст/Pasted image 20250313103115.png",
+    "ГРУЗОВИК.БИЗ/STAT",
+    "Untitled 1",
+    "СТУДЕНТЫ",
+    "ФОТО ЗАПЧАСТЕЙ",
+    "PARTIZON",
+    "Untitled",
+    "DATA-PARTS",
+    "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+    "Неразобрано/23d75f06-ef28-4fab-a7b8-4c7bd1986fbd.png",
+    "Неразобрано/06cbf0e9-682d-4235-8d0e-ae4b78e17d03.png",
+    "Неразобрано/Pasted image 20250224171423.png",
+    "Неразобрано/bb9ad678-9b0e-4456-a975-e49d227f7908.jpeg",
+    "ГРУЗОВИК.БИЗ/Без названия.canvas",
+    "Неразобрано/Pasted image 20250110100103.png",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные/Pasted image 20241228133901.png",
+    "Без названия.canvas"
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c136e347b3433032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95a7bba05afbadb9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+                "viewState": {
+                  "x": -238.86436686016776,
+                  "y": 242.5412501698204,
+                  "zoom": -0.6813068236826896
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Структура сайта на базе ГР.БИЗ"
+            }
+          },
+          {
+            "id": "6236eeffc961198c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Сервера Docker грузовик.биз.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сервера Docker грузовик.биз"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14eee845c60b5e16",
+        "type": "tabs",
+        "dimension": 73.3140655105973,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3d9146eb1d62480",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e99201648d6fe8c",
+        "type": "tabs",
+        "dimension": 26.685934489402698,
+        "children": [
+          {
+            "id": "e274f4d1fc0920d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Сервера Docker грузовик.биз.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Сервера Docker грузовик.биз"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "35530b2c5813c967",
+  "lastOpenFiles": [
+    "Битрикс24 Промбуравто/ПромБурАвто - Первый вход в Битрикс 24.md",
+    "Битрикс24 Промбуравто/Настройка телефонии.md",
+    "Битрикс24 Промбуравто/Битрикс24 Промбруавто.md",
+    "Битрикс24 Промбуравто",
+    "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+    "ГРУЗОВИК.БИЗ/Примеры сайтов на базе платформ.md",
+    "Битрикс24/Битрикс24 Промбруавто.md",
+    "Неразобрано/Конфигурация скоринговой системы ElasticSearch на uralst.ru.md",
+    "Неразобрано/06cbf0e9-682d-4235-8d0e-ae4b78e17d03.png",
+    "Неразобрано/23d75f06-ef28-4fab-a7b8-4c7bd1986fbd.png",
+    "Неразобрано/bb9ad678-9b0e-4456-a975-e49d227f7908.jpeg",
+    "Неразобрано/GIT для контрибных продуктов.md",
+    "ЧАТ/Описание WebSocket API чата.md",
+    "Битрикс24/Битрикс24 - Перечень работ по интеграции.md",
+    "Неразобрано/Работы по технической поддержке сайта УралСТ.md",
+    "Неразобрано/Настройка телефонии УЦЗ в Битрикс24.md",
+    "Неразобрано/Брэйк-поинты, диапазоны и макеты.md",
+    "Неразобрано/Файл по сделкам и документам Контекст.md",
+    "Неразобрано/Реструктуризация по контексту.md",
+    "Битрикс24/Ведение сделок по Битрикс24.md",
+    "Неразобрано/Реструктуризация по контексту (2).md",
+    "DATA Parts/Редактор разметки картинок визуального каталога.md",
+    "ЧАТ/Структура компоненов.md",
+    "Неразобрано/Как именовать переменные, функции, классы, методы в Drupal.md",
+    "Неразобрано/Структура документа.md",
+    "ЧАТ/Чат доски объявлений - общее описание.md",
+    "ГРУЗОВИК.БИЗ/Рекламные блоки.md",
+    "ЧАТ/Права доступа (permissions) чата.md",
+    "ЧАТ/Описание методов REST API chat.md",
+    "ГРУЗОВИК.БИЗ/Сервера Docker грузовик.биз.md",
+    "Untitled",
+    "ГРУЗОВИК.БИЗ/Продажа/Грузовик.биз - перед началом продаж.md",
+    "Регистрация ПО и ТЗ",
+    "ОТДЕЛ ПРОДАЖ",
+    "АРХИВ",
+    "Битрикс24",
+    "DATA Parts",
+    "Неразобрано/Pasted image 20250110100103.png",
+    "Без названия",
+    "ГРУЗОВИК.БИЗ/Продажа",
+    "ЧАТ",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные/Pasted image 20241228133901.png",
+    "Без названия.canvas"
+  ]
+}

@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /Users/danilalykov/Yandex.Disk.localized/Obsidian/ОСНОВНОЕ
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = DanilaLykov
+	email = develpro74@gmail.com

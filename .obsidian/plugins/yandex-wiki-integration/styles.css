@@ -1,0 +1,77 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+---
+*/
+
+
+.slugTreeNodeContainer {
+    border-color: blueviolet;
+    border-width: 1;
+    border: solid;
+
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.treeNodeContainer {
+    margin: 0;
+    padding-top: 5;
+    padding-bottom: 5;
+    width: "max-content";
+    border-radius: 4px;
+}
+
+
+.treeNodeContainer:hover {
+    background-color: rgb(228, 228, 228);
+    color: black;
+    opacity: 1;
+    border-radius: 4px;
+}
+
+
+.treeNodeContainer:active {
+    background-color: rgb(200, 200, 200);
+    color: black;
+    opacity: 1;
+}
+
+
+.treeNavArrow:hover {
+    background-color: rgb(228, 228, 228);
+    color: black;
+    opacity: 1;
+    border-radius: 4px;
+}
+
+
+.treeNavArrow:active {
+    background-color: rgb(200, 200, 200);
+    color: black;
+    opacity: 1;
+    border-radius: 4px;
+}
+
+
+.NavHeaderIcon {
+    border-radius: 4px;
+}
+
+
+.NavHeaderIcon:hover {
+    background-color: rgb(228, 228, 228);
+    color: black;
+    opacity: 1;
+}
+
+
+.NavHeaderIcon:active {
+    background-color: rgb(200, 200, 200);
+    color: black;
+    opacity: 1;
+}

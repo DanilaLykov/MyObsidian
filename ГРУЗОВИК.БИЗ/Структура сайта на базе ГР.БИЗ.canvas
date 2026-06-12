@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"debf0ad41f2495ef","type":"group","x":-440,"y":40,"width":305,"height":580,"label":"Структура подвала"},
+		{"id":"ebb4344fa50a7d8a","type":"group","x":-780,"y":40,"width":290,"height":580,"label":"Структура шапки"},
+		{"id":"7c250b5b3c1100a0","type":"text","text":"Каталог","x":-780,"y":-220,"width":250,"height":60},
+		{"id":"613d5c45c25a070e","type":"text","text":"Главная страница","x":-385,"y":-460,"width":250,"height":60},
+		{"id":"a14b9da3ceb9452a","type":"text","text":"Главное меню","x":-760,"y":60,"width":250,"height":60},
+		{"id":"c8d120018bc5b3be","type":"text","text":"Логотип","x":-760,"y":140,"width":250,"height":60},
+		{"id":"795272fa086c8a1f","type":"file","file":"ГРУЗОВИК.БИЗ/Примеры сайтов на базе платформ.md","x":-80,"y":40,"width":400,"height":400},
+		{"id":"d8e84452a6e39fd2","type":"text","text":"О компании","x":-510,"y":-220,"width":250,"height":60},
+		{"id":"0f2a2b1deb4323cf","type":"text","text":"Контакты","x":-240,"y":-220,"width":250,"height":60},
+		{"id":"450f519ccbd7257a","type":"text","text":"Доставка и оплата","x":30,"y":-220,"width":250,"height":60},
+		{"id":"ba599002cf0fdbfb","type":"text","text":"Деятельность коротко","x":-760,"y":220,"width":250,"height":60},
+		{"id":"438f26cff7b80c92","type":"text","text":"Избранное","x":-760,"y":300,"width":250,"height":60},
+		{"id":"6164cdbad337dee1","type":"text","text":"Заказать звонок","x":-760,"y":380,"width":250,"height":60},
+		{"id":"d54d789a76ac478e","type":"text","text":"Главное меню","x":-420,"y":60,"width":250,"height":60},
+		{"id":"9d468e7d651a4d2a","type":"text","text":"Меню каталога (верхний уровень)","x":-420,"y":140,"width":250,"height":60},
+		{"id":"6d6ba2f05477c1e9","type":"text","text":"Контактная информация","x":-420,"y":220,"width":250,"height":60},
+		{"id":"71cb09f8b97a0262","type":"text","text":"Заказать звонок","x":-420,"y":300,"width":250,"height":60},
+		{"id":"c2ac0f7218473c27","type":"text","text":"Копирайт","x":-420,"y":380,"width":250,"height":60},
+		{"id":"7e8b4c34acd930ff","type":"text","text":"Работает на платформе ГРУЗОВИК.БИЗ","x":-420,"y":460,"width":250,"height":60},
+		{"id":"9ce47f3faa51a474","type":"text","text":"Политика конфидециальности","x":-420,"y":540,"width":250,"height":60},
+		{"id":"8960c1a23ac284c9","type":"text","text":"Телефон","x":-760,"y":460,"width":250,"height":60},
+		{"id":"6e08706b2fe8592d","type":"text","text":"Основной e-mail","x":-760,"y":540,"width":250,"height":60},
+		{"id":"f0c3df83460ddeae","type":"text","text":"","x":-760,"y":840,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"bd27be44d4174570","fromNode":"613d5c45c25a070e","fromSide":"bottom","toNode":"d8e84452a6e39fd2","toSide":"top"},
+		{"id":"354d4e2f01be6fab","fromNode":"613d5c45c25a070e","fromSide":"bottom","toNode":"0f2a2b1deb4323cf","toSide":"top"},
+		{"id":"abe289bfcb6e2d7e","fromNode":"613d5c45c25a070e","fromSide":"bottom","toNode":"7c250b5b3c1100a0","toSide":"top"},
+		{"id":"0ee066f420836a22","fromNode":"613d5c45c25a070e","fromSide":"bottom","toNode":"450f519ccbd7257a","toSide":"top"}
+	]
+}

@@ -1,0 +1,460 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d570ec2f27ed83bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cff66c5dbdeeb2f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Без названия.canvas",
+                "viewState": {
+                  "x": -433.8142222222222,
+                  "y": 123.02222222222224,
+                  "zoom": -0.42175441549342474
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
+            }
+          },
+          {
+            "id": "b609dc5928d132bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/Проблемы Фида яндекса.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проблемы Фида яндекса"
+            }
+          },
+          {
+            "id": "05e73f569c4a7bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/GIT для контрибных продуктов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT для контрибных продуктов"
+            }
+          },
+          {
+            "id": "c6afd5707df64268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЧАТ/Описание WebSocket API чата.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Описание WebSocket API чата"
+            }
+          },
+          {
+            "id": "33093100e7d01934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Битрикс24/Битрикс24 - Перечень работ по интеграции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Битрикс24 - Перечень работ по интеграции"
+            }
+          },
+          {
+            "id": "0558504d1b2f8355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Битрикс24/Битрикс24 - Перечень работ по интеграции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Битрикс24 - Перечень работ по интеграции"
+            }
+          },
+          {
+            "id": "a47090d2320eb1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Битрикс24/Битрикс24 Промбруавто.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Битрикс24 Промбруавто"
+            }
+          },
+          {
+            "id": "aa40c31f3f99fb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/Реструктуризация по контексту.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Реструктуризация по контексту"
+            }
+          },
+          {
+            "id": "a24042eab55509bf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+                "viewState": {
+                  "x": -230,
+                  "y": 80,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Структура сайта на базе ГР.БИЗ"
+            }
+          },
+          {
+            "id": "4b094187e541c629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/А-ГРУПП - редизайн сайта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "А-ГРУПП - редизайн сайта"
+            }
+          },
+          {
+            "id": "c8258233a3dc880e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Контекст/Чистка мусорных площадок.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чистка мусорных площадок"
+            }
+          },
+          {
+            "id": "f476427b3ee67f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "07ca4fae4709aa81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/Названия Бредов поломоечных машин.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Названия Бредов поломоечных машин"
+            }
+          },
+          {
+            "id": "c4e47218af4fa60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ЧАТ/Чат доски объявлений - общее описание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Чат доски объявлений - общее описание"
+            }
+          },
+          {
+            "id": "50adfdae48ea68b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Рекламные блоки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Рекламные блоки"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "404ce12686bc1185",
+        "type": "tabs",
+        "dimension": 14.727540500736376,
+        "children": [
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      },
+      {
+        "id": "abc0cc6d344c27e2",
+        "type": "tabs",
+        "dimension": 55.596465390279825,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5371d9526762a074",
+        "type": "tabs",
+        "dimension": 29.6759941089838,
+        "children": [
+          {
+            "id": "d3d9146eb1d62480",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Неразобрано/Названия Бредов поломоечных машин.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Названия Бредов поломоечных машин"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "07ca4fae4709aa81",
+  "lastOpenFiles": [
+    "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+    "Неразобрано/Названия Бредов поломоечных машин.md",
+    "ГРУЗОВИК.БИЗ/Как продавать аккаунты ПРО действующим пользователям Грузовик.БИЗ.md",
+    "ГРУЗОВИК.БИЗ/Примеры сайтов на базе платформ.md",
+    "Неразобрано/Конверсии в метрике.md",
+    "Контекст/Чистка мусорных площадок.md",
+    "Контекст/Pasted image 20250313103115.png",
+    "Неразобрано/GIT для контрибных продуктов.md",
+    "Неразобрано/А-ГРУПП - редизайн сайта.md",
+    "Неразобрано/23d75f06-ef28-4fab-a7b8-4c7bd1986fbd.png",
+    "Неразобрано/06cbf0e9-682d-4235-8d0e-ae4b78e17d03.png",
+    "ЧАТ/Описание методов REST API chat.md",
+    "Контекст/ALGUS Context Flask.md",
+    "Битрикс24 Русский Урал/КП Битрикс24 Русский Урал.md",
+    "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
+    "Неразобрано/Работы по технической поддержке сайта УралСТ.md",
+    "Неразобрано/Конфигурация скоринговой системы ElasticSearch на uralst.ru.md",
+    "Неразобрано/Как именовать переменные, функции, классы, методы в Drupal.md",
+    "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+    "Контекст/КП Контекст.md",
+    "Битрикс24 Русский Урал",
+    "Неразобрано/Евгений Комаров.md",
+    "Неразобрано/Pasted image 20250224171423.png",
+    "Контекст/Реструктуризация по контексту.md",
+    "Неразобрано/Структура документа.md",
+    "Неразобрано/Примеры работ, портфолио, дизайны.md",
+    "Неразобрано/Брэйк-поинты, диапазоны и макеты.md",
+    "Неразобрано/Что посмотреть на Пхукете.md",
+    "DATA Parts/Универсальное настраиваемое меню каталога.md",
+    "Битрикс24 Промбуравто/Настройка телефонии.md",
+    "Битрикс24 Промбуравто/Порядок работы со сделками.md",
+    "Битрикс24 Промбуравто/Битрикс24 Промбруавто.md",
+    "Битрикс24 Промбуравто",
+    "Неразобрано/bb9ad678-9b0e-4456-a975-e49d227f7908.jpeg",
+    "Контекст",
+    "Регистрация ПО и ТЗ",
+    "ОТДЕЛ ПРОДАЖ",
+    "Битрикс24/АРХИВ",
+    "ГРУЗОВИК.БИЗ/Без названия.canvas",
+    "Битрикс24",
+    "DATA Parts",
+    "Неразобрано/Pasted image 20250110100103.png",
+    "Без названия",
+    "ГРУЗОВИК.БИЗ/Продажа",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные/Pasted image 20241228133901.png",
+    "Без названия.canvas"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d570ec2f27ed83bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cff66c5dbdeeb2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Личные/Меню нового года 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Меню нового года 2025"
+            }
+          },
+          {
+            "id": "ec8ff1146eb90c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Личные/Организация нового года.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Организация нового года"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14eee845c60b5e16",
+        "type": "tabs",
+        "dimension": 59.30568948891032,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "нового",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d3d9146eb1d62480",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1e99201648d6fe8c",
+        "type": "tabs",
+        "dimension": 40.69431051108968,
+        "children": [
+          {
+            "id": "e274f4d1fc0920d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Личные/Организация нового года.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Организация нового года"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ec8ff1146eb90c53",
+  "lastOpenFiles": [
+    "Личные/Меню нового года 2025.md",
+    "Личные/Организация нового года.md",
+    "Битрикс24/Битрикс24 - Перечень работ по интеграции.md",
+    "ГРУЗОВИК.БИЗ/Без названия.canvas",
+    "Неразобрано/Примеры работ, портфолио, дизайны.md",
+    "Неразобрано/Без названия.md",
+    "Битрикс24",
+    "Неразобрано/Как именовать переменные, функции, классы, методы в Drupal.md",
+    "ГРУЗОВИК.БИЗ/Чем мы можем помочь новому пользователю.md",
+    "чем мы можем помочь.md",
+    "ГРУЗОВИК.БИЗ/Продажа/Обзвон продавцов спецтехники с целью сегментации.md",
+    "ЧАТ/Чат доски объявлений - общее описание.md",
+    "ГРУЗОВИК.БИЗ/Продажа",
+    "ЧАТ/Описание методов REST API chat.md",
+    "ЧАТ/Права доступа (permissions) чата.md",
+    "ЧАТ/Описание WebSocket API чата.md",
+    "ЧАТ",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные",
+    "Неразобрано",
+    "Личные/Pasted image 20241228133901.png",
+    "Untitled",
+    "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+    "Obsidian/Welcome.md",
+    "ГРУЗОВИК.БИЗ/Как продавать аккаунты ПРО действующим пользователям Грузовик.БИЗ.md",
+    "ГРУЗОВИК.БИЗ/Анкета продавца грузовиков и спецтехники.md",
+    "create a link.md",
+    "ГРУЗОВИК.БИЗ/ГРУЗОВИК.БИЗ Инструкция по модерации объявлений.md",
+    "ВХОДЯЩИЕ/Текстовая заметка.md",
+    "ВХОДЯЩИЕ/ПРОМБУРАВТО - Битрикс24.md",
+    "ГРУЗОВИК.БИЗ/Парсинг объявлений.md",
+    "W-PUNCH/Дизайн.md",
+    "W-PUNCH/Категории задач.md",
+    "Obsidian",
+    "W-PUNCH/WorkerPunch - Общее описание проекта.md",
+    "W-PUNCH",
+    "ПЛАНИРОВАНИЕ",
+    "Templates",
+    "Без названия.canvas"
+  ]
+}

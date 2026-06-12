@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "bdcea69c80ad9a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e10145afa37445cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af7c5da90bf12ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Неразобрано/Забор на дачу.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Забор на дачу"
+            }
+          },
+          {
+            "id": "fd38749c94a17f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Яндекс.метрика.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Яндекс.метрика"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfcd5d4e3f0c13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc0cc6d344c27e2",
+        "type": "tabs",
+        "dimension": 59.49855351976856,
+        "children": [
+          {
+            "id": "35530b2c5813c967",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a60ac2d51d866afe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b749a391dd153202",
+        "type": "tabs",
+        "dimension": 40.50144648023144,
+        "children": [
+          {
+            "id": "572a5f0e93d27796",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 657.5
+  },
+  "right": {
+    "id": "55fe5a5771d2e7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "930f306683916709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8fd894c8f8cc7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Обязанности менеджера портала ГРУЗОВИК.БИЗ"
+            }
+          },
+          {
+            "id": "f88907b5e4e4ceb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8a40cc42eebc8b38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ГРУЗОВИК.БИЗ/Яндекс.метрика.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Яндекс.метрика"
+            }
+          },
+          {
+            "id": "3db14f2b4f5d35db",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "c6c00af029c12913",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4210366e73c86461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9794f815cb75320c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "35530b2c5813c967",
+  "lastOpenFiles": [
+    "Регистрация ПО и ТЗ/Регистрация в минцифры.md",
+    "ГРУЗОВИК.БИЗ/STAT",
+    "ГРУЗОВИК.БИЗ/Статистика профиля - массив для API.md",
+    "ГРУЗОВИК.БИЗ/Яндекс.метрика.md",
+    "ГРУЗОВИК.БИЗ/Сервера Docker грузовик.биз.md",
+    "ЧАТ/Описание методов REST API chat.md",
+    "DATA Parts/Визуальные каталоги V 3.md",
+    "DATA Parts/Визуальные каталоги V 3.md",
+    "DATA Parts/Восстановление данных.md",
+    "Неразобрано/Аудит (2).md",
+    "Неразобрано/Аудит.md",
+    "ФОТО ЗАПЧАСТЕЙ/Untitled.md",
+    "Неразобрано/Untitled 1.md",
+    "Неразобрано/Забор на дачу (2).md",
+    "Неразобрано/Забор на дачу.md",
+    "Битрикс24 Русский Урал/Закупка автомобилей.md",
+    "Неразобрано/Где, что, кому.md",
+    "Неразобрано/План работ Partizon.md",
+    "Битрикс24 Русский Урал/Телефония.md",
+    "Неразобрано/Смета на мебель.md",
+    "Неразобрано/Стройка участок.md",
+    "PARTIZON/Аудит 2025-07-01 ПАРТИЗОН.md",
+    "Untitled 1",
+    "Неразобрано/Телефония ALGUS.md",
+    "Неразобрано/ХАМС.md",
+    "Неразобрано/Аудит 2025-06-24 ПАРТИЗОН.md",
+    "СТУДЕНТЫ/Практика 2025.md",
+    "СТУДЕНТЫ",
+    "ФОТО ЗАПЧАСТЕЙ",
+    "Битрикс24 Русский Урал/Справочник менеджера отдела продаж по работе с CRM Битрикс 24 компании Русский Урал.md",
+    "PARTIZON",
+    "Untitled",
+    "DATA-PARTS",
+    "ГРУЗОВИК.БИЗ/Структура сайта на базе ГР.БИЗ.canvas",
+    "Контекст/Pasted image 20250313103115.png",
+    "АРХИВ",
+    "Неразобрано/23d75f06-ef28-4fab-a7b8-4c7bd1986fbd.png",
+    "Неразобрано/06cbf0e9-682d-4235-8d0e-ae4b78e17d03.png",
+    "Битрикс24 Русский Урал",
+    "Неразобрано/Pasted image 20250224171423.png",
+    "Битрикс24 Промбуравто",
+    "Неразобрано/bb9ad678-9b0e-4456-a975-e49d227f7908.jpeg",
+    "ГРУЗОВИК.БИЗ/Без названия.canvas",
+    "Неразобрано/Pasted image 20250110100103.png",
+    "Личные/Pasted image 20241228134415.png",
+    "Личные/Pasted image 20241228133901.png",
+    "Без названия.canvas"
+  ]
+}
