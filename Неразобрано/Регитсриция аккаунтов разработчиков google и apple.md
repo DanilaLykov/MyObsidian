@@ -1,3 +1,6 @@
+---
+id: 25bdf2ca-9e4e-49e4-aaa9-62207ee541d1
+---
 
 
 algusdev@gmail.com
@@ -17,6 +20,21 @@ https://play.google.com/console/u/0/signup
 **Номер D-U-N-S®:** 685901460
 
 
+AppleID
+
+develpro74@gmail.com
+Dan123ila456!
+
+
+- Legal Entity NameALGORITM USPEKHA, OOO
+- Local Business NameАЛГОРИТМ УСПЕХА, ООО
+- Headquarters Address
+    - d. 5/9G ofis 11, shosse Turgoyakskoe
+    - Miass, RU 456313
+
+EnrolmentID M2H3T67693
+
+![[Pasted image 20260622142305.png]]
 
 КАРТА Антоши
 
@@ -32,6 +50,9 @@ Koshtoyan 5/2  22
 +374 99 13 28 43
 Gyumri 
 Yerevan - province
+
+
+
 
 developer.apple.com
 
