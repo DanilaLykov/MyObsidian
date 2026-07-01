@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "W-PUNCH/Категории задач.md",
+                "file": "ОРГСТРУКТУРА/Обязанности офис-менеджера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Категории задач"
+              "title": "Обязанности офис-менеджера"
             }
           },
           {
@@ -95,45 +95,17 @@
             }
           },
           {
-            "id": "16aa8f023f4f62d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "УЧЕБА/Реальный маркетинг 2006.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Реальный маркетинг 2006"
-            }
-          },
-          {
             "id": "f4298e716ef7b5d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Битрикс24/Настройка телефонии УЦЗ в Битрикс24.md",
+                "file": "ОРГСТРУКТУРА/Обязанности офис-менеджера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настройка телефонии УЦЗ в Битрикс24"
-            }
-          },
-          {
-            "id": "8d955fc6ab6d3694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Контекст.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ВОРОНКА - Контекст"
+              "title": "Обязанности офис-менеджера"
             }
           }
         ],
@@ -180,8 +152,8 @@
             "state": {
               "type": "yandex-wiki_integration-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "yandex-wiki_integration-view"
+              "icon": "yandex-wiki-integration-icon",
+              "title": "Yandex wiki integration"
             }
           },
           {
@@ -207,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 365.5
   },
   "right": {
     "id": "55fe5a5771d2e7ed",
@@ -238,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ГРУЗОВИК.БИЗ/УСЛУГИ И Транзакции.canvas",
+                "file": "ОРГСТРУКТУРА/Обязанности офис-менеджера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for УСЛУГИ И Транзакции"
+              "title": "Обратные ссылки для Обязанности офис-менеджера"
             }
           },
           {
@@ -272,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ГРУЗОВИК.БИЗ/УСЛУГИ И Транзакции.canvas",
+                "file": "ОРГСТРУКТУРА/Обязанности офис-менеджера.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of УСЛУГИ И Транзакции"
+              "title": "Структура Обязанности офис-менеджера"
             }
           },
           {
@@ -297,8 +269,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "todo"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -320,9 +292,18 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "1f7644b129737096",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "4210366e73c86461",
@@ -342,7 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -360,11 +341,16 @@
   },
   "active": "7dd7a475538dcaee",
   "lastOpenFiles": [
+    "ОРГСТРУКТУРА/Квартальная сверка - порядок проведения.md",
+    "ГРУЗОВИК.БИЗ/Заполнение кратких характеристик.md",
+    "ОРГСТРУКТУРА/Обязанности офис-менеджера.md",
     "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Контекст.md",
+    "Битрикс24/Настройка телефонии УЦЗ в Битрикс24.md",
+    "УЧЕБА/Реальный маркетинг 2006.md",
+    "W-PUNCH/Категории задач.md",
     "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимизация.md",
     "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
     "Неразобрано/Pasted image 20260622142305.png",
-    "ОРГСТРУКТУРА/Обязанности офис-менеджера.md",
     "ОРГСТРУКТУРА/Компенсация за занятия спортом.md",
     "ОРГСТРУКТУРА/Работа с заявлениями от сотрудников.md",
     "ОРГСТРУКТУРА/Работа с закрывающими документами.md",
@@ -392,10 +378,6 @@
     "Неразобрано/Таганай Авто Интервью с Вовой.md",
     "Контекст/Тарифы и договор/Тарифные планы по ведению рекламных кампаний в Яндекс.Директ.md",
     "ГРУЗОВИК.БИЗ/Продажа/Тарифы 2026 V.1.md",
-    "Неразобрано/Настройка телефонии УЦЗ в Битрикс24.md",
-    "ГРУЗОВИК.БИЗ/Кто за что отвечает.md",
-    "ГРУЗОВИК.БИЗ/Порядок взаимодействия фронта и бэка.md",
-    "ГРУЗОВИК.БИЗ/Продажа/Документы для продажи.md",
     "ОРГСТРУКТУРА/Организационная структура.canvas",
     "УЧЕБА/Busines Booster/Pasted image 20260205194049.png",
     "УЧЕБА/Busines Booster/Pasted image 20260205222140.png",
