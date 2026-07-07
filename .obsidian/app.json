@@ -1,14 +1,1 @@
-{
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Неразобрано",
-  "trashOption": "local",
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
-}
+{}
