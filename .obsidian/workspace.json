@@ -53,6 +53,20 @@
             }
           },
           {
+            "id": "8014c00d26838c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ГРУЗОВИК.БИЗ Продажа"
+            }
+          },
+          {
             "id": "b634e91f912e04de",
             "type": "leaf",
             "state": {
@@ -109,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +144,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -171,7 +187,7 @@
       {
         "id": "b749a391dd153202",
         "type": "tabs",
-        "dimension": 44.668587896253605,
+        "dimension": 44.6685878962536,
         "children": [
           {
             "id": "572a5f0e93d27796",
@@ -210,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Битрикс24/Настройка телефонии УЦЗ в Битрикс24.md",
+                "file": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +236,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Настройка телефонии УЦЗ в Битрикс24"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -302,6 +318,34 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2673f979a81d2822",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "beec041edc151c1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
           }
         ]
       },
@@ -327,29 +371,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Сегодняшняя заметка": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "bases:Создать новую базу": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd7a475538dcaee",
+  "active": "8014c00d26838c5f",
   "lastOpenFiles": [
+    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимизация.md",
+    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимиз.md",
+    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Контекст.md",
     "Битрикс24/ЗАГОТОВКИ/Пример КП Битрикс24.md",
     "Битрикс24/ЗАГОТОВКИ/Битрикс24 - Перечень работ по интеграции.md",
     "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
     "ОРГСТРУКТУРА/Работа с заявлениями от сотрудников.md",
     "ОРГСТРУКТУРА/Работа с входящими документами.md",
-    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимиз.md",
     "ОРГСТРУКТУРА/Работа с исходящими закрывающими документами.md",
     "ОРГСТРУКТУРА/БУХГАЛТЕРУ",
-    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимизация.md",
     "ОРГСТРУКТУРА/Ежемесячные платежи.md",
     "ОРГСТРУКТУРА/Подготовка к расчету ЗП.md",
     "ОРГСТРУКТУРА/Организационная структура.canvas",
@@ -359,7 +403,6 @@
     "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
     "ГРУЗОВИК.БИЗ/Как можно автоматически загружать объявдения.md",
     "ГРУЗОВИК.БИЗ/Заполнение кратких характеристик.md",
-    "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Контекст.md",
     "Битрикс24/Настройка телефонии УЦЗ в Битрикс24.md",
     "УЧЕБА/Реальный маркетинг 2006.md",
     "W-PUNCH/Категории задач.md",
