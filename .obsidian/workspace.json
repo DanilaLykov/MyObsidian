@@ -58,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОРГСТРУКТУРА/HR/Вакансия Менеджер по работе с клиентами.md",
+                "file": "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вакансия Менеджер по работе с клиентами"
+              "title": "Регитсриция аккаунтов разработчиков google и apple"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "продаж",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 294.14453125
   },
   "right": {
     "id": "55fe5a5771d2e7ed",
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ОРГСТРУКТУРА/HR/Вакансия Менеджер по работе с клиентами.md",
+                "file": "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ОРГСТРУКТУРА/HR/Вакансия Менеджер по работе с клиентами.md",
+                "file": "Неразобрано/Регитсриция аккаунтов разработчиков google и apple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -385,7 +385,9 @@
   "active": "8014c00d26838c5f",
   "lastOpenFiles": [
     "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
+    "ГРУЗОВИК.БИЗ/Продажа/Коммерческое предложение.md",
     "ОРГСТРУКТУРА/HR/Вакансия Менеджер по работе с клиентами.md",
+    "ГРУЗОВИК.БИЗ/Обязанности менеджера портала ГРУЗОВИК.БИЗ.md",
     "ОРГСТРУКТУРА/HR",
     "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимизация.md",
     "ОРГСТРУКТУРА/Воронки сделок/ВОРОНКА - Оптимиз.md",
@@ -420,8 +422,6 @@
     "1 800 000/hooks/sendemail-validate.sample",
     "ФОТО ЗАПЧАСТЕЙ/Untitled.md",
     "Регистрация ПО и ТЗ/Регистрация в минцифры.md",
-    "Регистрация ПО и ТЗ/Коротко обо всепро регистрацию ПО.md",
-    "ГРУЗОВИК.БИЗ/Ранжирование/Коэффициенты ранжирования объявлений ElasticSearch.md",
     "УЧЕБА/Busines Booster/Pasted image 20260205194049.png",
     "УЧЕБА/Busines Booster/Pasted image 20260205222140.png",
     "ГРУЗОВИК.БИЗ/Схема юзера (1).canvas",
