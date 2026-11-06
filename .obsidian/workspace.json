@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22453a86d8221575",
+        "id": "f67080618387fc82",
         "type": "tabs",
         "children": [
           {
-            "id": "8014c00d26838c5f",
+            "id": "cd725dfc14636560",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
-                "bFile": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
-                "aRef": ""
+                "file": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ГРУЗОВИК.БИЗ Продажа  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "ГРУЗОВИК.БИЗ Продажа"
             }
           }
         ]
@@ -124,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.85546875
+    "width": 429.09375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8014c00d26838c5f",
+  "active": "35530b2c5813c967",
   "lastOpenFiles": [
     "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
     "ГРУЗОВИК.БИЗ/УСЛУГИ И Транзакции.canvas",
