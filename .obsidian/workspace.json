@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "94f0c744d2493eca",
+            "id": "04ca6855aade76b0",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.15.0"
+                "currentVersion": "1.15.1"
               },
               "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.15.0"
+              "title": "примечания к выпуску 1.15.1"
             }
           }
         ],
@@ -294,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94f0c744d2493eca",
+  "active": "04ca6855aade76b0",
   "lastOpenFiles": [
     "ОРГСТРУКТУРА/Воронки сделок/ГРУЗОВИК.БИЗ Продажа.md",
     "ГРУЗОВИК.БИЗ/УСЛУГИ И Транзакции.canvas",
